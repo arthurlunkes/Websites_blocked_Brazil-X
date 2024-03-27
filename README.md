@@ -12,6 +12,21 @@ This repository is updated as the list of blocked domains is updated.
 
 The [main.py](https://github.com/Router-X/Websites_blocked_Brazil/blob/main/main.py) file is used for updating the list of blocked domains.
 
+## Steps
+
+1. Clone the repository: 
+```bash
+git clone https://github.com/Router-X/Websites_blocked_Brazil.git
+```
+2. Navigate to the directory: 
+```bash
+cd Websites_blocked_Brazil
+```
+3. Run the script: 
+```bash
+python3 main.py
+```
+
 ---
 
 <div align='center'><b>RouterX@2024</b></div>

@@ -18,6 +18,10 @@ The [main.py](https://github.com/Router-X/Websites_blocked_Brazil/blob/main/main
 ```bash
 git clone https://github.com/Router-X/Websites_blocked_Brazil.git
 ```
+1.1 Clone the repository via SSH: 
+```bash
+git clone git@github.com:Router-X/Websites_blocked_Brazil.git
+```
 2. Navigate to the directory: 
 ```bash
 cd Websites_blocked_Brazil

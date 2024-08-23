@@ -30,6 +30,10 @@ cd Websites_blocked_Brazil
 ```bash
 python3 main.py
 ```
+4. Run this command
+```
+# python3 /router-x/scripts/blockWebsitesRPZ/updateBlockedWebsites.py
+```
 
 ---
 
